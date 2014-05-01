@@ -1,4 +1,4 @@
-CA Identity Sketch Plugins
+Sketch Plugins
 =======================
 
 These are plugins for [Sketch](http://bohemiancoding.com/sketch/) That i've adapted and modified to meet my needs. 
@@ -7,4 +7,4 @@ Feel free to use if these may help you. The more i use Sketch for my work the mo
 
 ## Plugins
 
-Export Android Assets - This is a custom plugin to export assets to all drawable densisites such as ldpi, mdpi, hdpi, xhdpi & xxhdpi.
+Export For Android - This is a custom plugin to export assets to all drawable densisites such as ldpi, mdpi, hdpi, xhdpi & xxhdpi.
